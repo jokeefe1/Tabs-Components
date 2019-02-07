@@ -8,7 +8,7 @@ Topics:
 
 In this project, our design team has already built an HTML/CSS web page for us, our job is to add javascript functionality.
 
-## Description
+## Description 
 
 ### Part One (The Dropdown)
 
